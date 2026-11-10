@@ -1,0 +1,8 @@
+"# Coeficiente de arrastre de un balon en rotacion, regimen supercritico (Re 3.3e5-4.6e5). Tunel de viento, Asai et al. (2007), leido de Goff & Carre (2010), Fig. 2. Cada fila promedia los 5 numeros de Reynolds medidos."
+Sp,C,n_datos
+0.054,0.172,5
+0.102,0.208,4
+0.150,0.220,5
+0.195,0.255,4
+0.246,0.270,5
+0.300,0.285,2
